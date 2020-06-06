@@ -1,0 +1,2 @@
+1-Open cmd as administrator
+2-Type - composer require "swiftmailer/swiftmailer:^6.0"
